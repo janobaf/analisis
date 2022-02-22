@@ -1,0 +1,6 @@
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\Entidad\bin\Debug\Entidad.dll
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\Entidad\bin\Debug\Entidad.pdb
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\Entidad\obj\Debug\Entidad.dll
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\Entidad\obj\Debug\Entidad.pdb

@@ -1,0 +1,9 @@
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\bin\Debug\funciones.dll
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\bin\Debug\funciones.pdb
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\bin\Debug\Entidad.dll
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\bin\Debug\Entidad.pdb
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\obj\Debug\funciones.csproj.AssemblyReference.cache
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\obj\Debug\funciones.csproj.CoreCompileInputs.cache
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\obj\Debug\funciones.dll
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\obj\Debug\funciones.pdb
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\obj\Debug\funciones.csproj.CopyComplete

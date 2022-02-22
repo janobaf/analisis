@@ -1,0 +1,17 @@
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\bin\Debug\principal.exe.config
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\bin\Debug\principal.exe
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\bin\Debug\principal.pdb
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\bin\Debug\Entidad.dll
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\bin\Debug\funciones.dll
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\bin\Debug\Entidad.pdb
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\bin\Debug\funciones.pdb
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.csproj.AssemblyReference.cache
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.Properties.Resources.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.csproj.GenerateResource.cache
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.csproj.CoreCompileInputs.cache
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.exe
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.pdb
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.mesa.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.Meseros.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.inicio.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.platos.resources
