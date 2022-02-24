@@ -15,3 +15,15 @@ E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\pri
 E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.Meseros.resources
 E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.inicio.resources
 E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.platos.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.crear_cuenta.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.Cuenta.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.ver_cuentas.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\bin\Debug\FontAwesome.Sharp.dll
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.modificar_cuenta.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.ver_cuentas_total.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.ver_cuentas_numero_mesa.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\bin\Debug\aa\principal.resources.dll
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.mesa.aa.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\aa\principal.resources.dll
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.premio.resources
+E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\principal\obj\Debug\principal.csproj.CopyComplete

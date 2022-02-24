@@ -41,7 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="funcion.cs" />
+    <Compile Include="cuentaf.cs" />
+    <Compile Include="mesas.cs" />
+    <Compile Include="meserosf.cs" />
+    <Compile Include="platosf.cs" />
+    <Compile Include="premios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

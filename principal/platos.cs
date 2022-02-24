@@ -26,13 +26,13 @@ namespace principal
         {
             int codigo_plato = int.Parse(codigo_plato_text.Text);
             float precio = float.Parse(precio_txt.Text);
-            bool verificar = funcion.Instancia.crear_platos(codigo_plato, categoria_txt.Text, nombre_plato_txt.Text, precio);
+            bool verificar = platosf.Instancia.crear_platos(codigo_plato, categoria_txt.Text, nombre_plato_txt.Text, precio);
             if (verificar == true)
                 MessageBox.Show("Creado correctamente");
             else
                 MessageBox.Show("Codigo ya existente");
             dataGridView1.DataSource = null;
-            dataGridView1.DataSource = funcion.Instancia.mostrar_platos();
+            dataGridView1.DataSource = platosf.Instancia.mostrar_platos();
 
             codigo_plato_text.Text = "";
             precio_txt.Text = "";

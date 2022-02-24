@@ -15,6 +15,8 @@ namespace principal
         public Meseros()
         {
             InitializeComponent();
+            dataGridView1.DataSource = null;
+            dataGridView1.DataSource = meserosf.Instancia.mostrar_meseros();
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -24,16 +26,14 @@ namespace principal
        
         private void button1_Click(object sender, EventArgs e)
         {
-            funcion.Instancia.crear_meseros(nombre_text.Text, dni_text.Text, int.Parse(numero_mesa_txt.Text));
+            meserosf.Instancia.crear_meseros(nombre_text.Text, dni_text.Text, int.Parse(numero_mesa_txt.Text));
             dataGridView1.DataSource = null;
-            dataGridView1.DataSource = funcion.Instancia.mostrar_meseros();
+            dataGridView1.DataSource = meserosf.Instancia.mostrar_meseros();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            inicio i = new inicio();
-            i.Show();
+            
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)

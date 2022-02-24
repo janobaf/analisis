@@ -6,4 +6,3 @@ E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\obj\Debug\fun
 E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\obj\Debug\funciones.csproj.CoreCompileInputs.cache
 E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\obj\Debug\funciones.dll
 E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\obj\Debug\funciones.pdb
-E:\Cursos upn\Ciclo de verano\diars\examen\Nueva carpeta\funciones\obj\Debug\funciones.csproj.CopyComplete

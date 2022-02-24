@@ -20,14 +20,7 @@ namespace principal
 
         private void registrar_Click(object sender, EventArgs e)
         {
-            bool verificar =funcion.Instancia.crear_mesa(int.Parse(numero_mesa_text.Text));
-            if (verificar == true)
-                MessageBox.Show("Registrado Correctamente");
-            else
-                MessageBox.Show("numero mesa existente");
-            dataGridView1.DataSource = null;
-            dataGridView1.DataSource = funcion.Instancia.mostrar_mesas();
-            numero_mesa_text.Text =" ";
+           
         }
         
      
@@ -41,6 +34,23 @@ namespace principal
             this.Hide();
             inicio i = new inicio();
             i.Show();
+        }
+
+        private void mesa_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void saliir_Click(object sender, EventArgs e)
+        {
+            bool verificar = mesas.Instancia.crear_mesa(int.Parse(numero_mesa_text.Text));
+            if (verificar == true)
+                MessageBox.Show("Registrado Correctamente");
+            else
+                MessageBox.Show("numero mesa existente");
+            dataGridView1.DataSource = null;
+            dataGridView1.DataSource = mesas.Instancia.mostrar_mesas();
+            numero_mesa_text.Text = " ";
         }
     }
 }

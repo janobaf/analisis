@@ -10,7 +10,8 @@ namespace Entidad
     {
         public string nombre { get; set; }
         public string dni { get; set; }
-        public bool ocupado { get; set; }
-        public List<mesa> Mesa_aux = new List<mesa>();
+        public bool ocupado { get; set; }  // si esta disponible 
+        public mesa Mesa_aux { get; set; }
+
     }
 }
